@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 add merge hehe
 --set-upstream dev3 -> dev
+--set-upstream hehe -> dev3
